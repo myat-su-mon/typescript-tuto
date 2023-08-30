@@ -1,4 +1,4 @@
-import Child from "./Child";
+import Child from "./Child1";
 
 interface User {
   id: number;
