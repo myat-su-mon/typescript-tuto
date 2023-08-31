@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App4";
-import { StateContextProvider } from "./context/StateContext";
+import { StateContextProvider } from "./context/StateContext3";
 import "./App.css";
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(

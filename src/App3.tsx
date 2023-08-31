@@ -1,4 +1,4 @@
-import { StateContextType, useStateContext } from "./context/StateContext";
+import { StateContextType, useStateContext } from "./context/StateContext3";
 
 const App3 = () => {
   const { count, setCount, color, setColor } =
